@@ -1,4 +1,4 @@
-# PP6--EDA-on-Zomato-Dataset
+# PP7--EDA-on-Zomato-Dataset
 
 The objective of the project is to perform analysis on the Zomato dataset and understand few items such as:
 1)Find rows with missing values
